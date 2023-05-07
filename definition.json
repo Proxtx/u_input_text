@@ -1,0 +1,17 @@
+{
+  "type": "text",
+  "config": {
+    "placeholder": {
+      "type": "text",
+      "placeholder": "Placeholder",
+      "value": "Text",
+      "name": "Placeholder"
+    },
+    "value": {
+      "type": "text",
+      "placeholder": "Value",
+      "value": "",
+      "name": "Value"
+    }
+  }
+}
