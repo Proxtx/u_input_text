@@ -18,6 +18,6 @@ export class Component {
 
   async setValue(value) {
     await uiBuilder.ready(this.input);
-    this.input.setAttribute("value", value);
+    this.input.component.value = value;
   }
 }
